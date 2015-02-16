@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
-
+// измененный вариант программы 
 void main()
 {
 	int n;
